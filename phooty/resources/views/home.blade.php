@@ -6,4 +6,5 @@
   <x-slot:heading>
     Home Page
   </x-slot:heading>
+  <h2>Home Page is happy to meet you (sucker)</h2>
 </x-layout>
