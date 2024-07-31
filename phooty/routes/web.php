@@ -5,8 +5,7 @@ use App\Models\Job;
 
 // impostiamo una Route che si mette in ascolto delle GET request alla pagina '/', quando questa viene visitata esegue la function
 Route::get('/', function () {
-  // le views sono contenute nella cartella resources/views
-  return view('home'); // i parametri passati all'interno dell'array sono disponibili come variabili all'interno delle views
+  return view('home');
 });
 
 Route::get('/jobs', function () {
