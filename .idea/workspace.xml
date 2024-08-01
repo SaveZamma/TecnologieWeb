@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8e5fe0b-a071-4510-983b-617ba235d4c7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/TecnologieWeb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TecnologieWeb.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/phooty/app/Models/Job.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/app/Models/Job.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phooty/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/database/factories/UserFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phooty/database/migrations/2024_07_29_195458_create_job_listings_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/database/migrations/2024_07_29_195458_create_job_listings_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phooty/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +203,7 @@
       <workItem from="1722277543066" duration="3975000" />
       <workItem from="1722338311071" duration="1439000" />
       <workItem from="1722363272826" duration="623000" />
-      <workItem from="1722453323360" duration="5118000" />
+      <workItem from="1722453323360" duration="7033000" />
     </task>
     <servers />
   </component>
