@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d8e5fe0b-a071-4510-983b-617ba235d4c7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phooty/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/app/Providers/AppServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phooty/resources/views/jobs.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/resources/views/jobs.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phooty/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phooty/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/database/seeders/DatabaseSeeder.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,7 +211,7 @@
       <workItem from="1722363272826" duration="623000" />
       <workItem from="1722453323360" duration="7033000" />
       <workItem from="1722536315955" duration="1365000" />
-      <workItem from="1722948467675" duration="2222000" />
+      <workItem from="1722948467675" duration="3617000" />
     </task>
     <servers />
   </component>
