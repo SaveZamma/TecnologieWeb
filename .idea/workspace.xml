@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8e5fe0b-a071-4510-983b-617ba235d4c7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/TecnologieWeb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TecnologieWeb.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/phooty/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/app/Providers/AppServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phooty/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phooty/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/phooty/resources/views/jobs.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/resources/views/jobs.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/phooty/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/routes/web.php" afterDir="false" />
     </list>
@@ -217,6 +213,7 @@
       <workItem from="1722363272826" duration="623000" />
       <workItem from="1722453323360" duration="7033000" />
       <workItem from="1722536315955" duration="1365000" />
+      <workItem from="1722948467675" duration="2222000" />
     </task>
     <servers />
   </component>
