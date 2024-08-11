@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8e5fe0b-a071-4510-983b-617ba235d4c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/phooty/resources/views/jobs/edit.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phooty/resources/views/jobs/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/resources/views/jobs/show.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/phooty/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -224,7 +222,7 @@
       <workItem from="1722453323360" duration="7033000" />
       <workItem from="1722536315955" duration="1365000" />
       <workItem from="1722948467675" duration="11143000" />
-      <workItem from="1723354649315" duration="5145000" />
+      <workItem from="1723354649315" duration="8084000" />
     </task>
     <servers />
   </component>
