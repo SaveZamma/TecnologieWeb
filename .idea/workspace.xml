@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8e5fe0b-a071-4510-983b-617ba235d4c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/phooty/resources/views/auth/login.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phooty/resources/views/auth/register.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phooty/resources/views/components/form-button.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phooty/resources/views/components/form-error.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phooty/resources/views/components/form-field.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phooty/resources/views/components/form-input.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phooty/resources/views/components/form-label.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phooty/app/Http/Controllers/RegisteredUserController.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/app/Http/Controllers/RegisteredUserController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phooty/app/Http/Controllers/SessionController.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/app/Http/Controllers/SessionController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phooty/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phooty/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/resources/views/auth/login.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phooty/resources/views/auth/register.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/resources/views/auth/register.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/phooty/resources/views/components/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/resources/views/components/layout.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phooty/resources/views/jobs/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/resources/views/jobs/create.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/phooty/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -237,6 +234,7 @@
       <workItem from="1724091770339" duration="683000" />
       <workItem from="1724092469868" duration="1181000" />
       <workItem from="1724344971577" duration="5095000" />
+      <workItem from="1724397069610" duration="5976000" />
     </task>
     <servers />
   </component>
