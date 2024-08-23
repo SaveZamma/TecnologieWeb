@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8e5fe0b-a071-4510-983b-617ba235d4c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/phooty/resources/views/auth/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phooty/resources/views/auth/register.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phooty/resources/views/components/form-button.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phooty/resources/views/components/form-error.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phooty/resources/views/components/form-field.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phooty/resources/views/components/form-input.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phooty/resources/views/components/form-label.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phooty/resources/views/components/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/resources/views/components/layout.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phooty/resources/views/jobs/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/resources/views/jobs/create.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/phooty/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -167,7 +176,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/ZMMSVT99/GitHub/TecnologieWeb/phooty/resources/views/jobs&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/ZMMSVT99/GitHub/TecnologieWeb/phooty/resources/views/components&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -179,6 +188,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ZMMSVT99\GitHub\TecnologieWeb\phooty\resources\views\components" />
       <recent name="C:\ZMMSVT99\GitHub\TecnologieWeb\phooty\resources\views\jobs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -223,6 +233,10 @@
       <workItem from="1722536315955" duration="1365000" />
       <workItem from="1722948467675" duration="11143000" />
       <workItem from="1723354649315" duration="8084000" />
+      <workItem from="1724089914124" duration="1054000" />
+      <workItem from="1724091770339" duration="683000" />
+      <workItem from="1724092469868" duration="1181000" />
+      <workItem from="1724344971577" duration="5095000" />
     </task>
     <servers />
   </component>
