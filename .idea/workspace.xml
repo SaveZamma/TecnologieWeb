@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8e5fe0b-a071-4510-983b-617ba235d4c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/phooty/resources/views/mail/job-posted.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/phooty/app/Http/Controllers/JobController.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/app/Http/Controllers/JobController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phooty/app/Models/Employer.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/app/Models/Employer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phooty/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/app/Providers/AppServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phooty/database/factories/EmployerFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/database/factories/EmployerFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phooty/database/migrations/2024_07_31_194855_create_employers_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/database/migrations/2024_07_31_194855_create_employers_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phooty/resources/views/jobs/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/resources/views/jobs/show.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phooty/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phooty/app/Mail/JobPosted.php" beforeDir="false" afterPath="$PROJECT_DIR$/phooty/app/Mail/JobPosted.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,7 +231,7 @@
       <workItem from="1724092469868" duration="1181000" />
       <workItem from="1724344971577" duration="5095000" />
       <workItem from="1724397069610" duration="5976000" />
-      <workItem from="1724596957976" duration="5340000" />
+      <workItem from="1724596957976" duration="6973000" />
     </task>
     <servers />
   </component>
