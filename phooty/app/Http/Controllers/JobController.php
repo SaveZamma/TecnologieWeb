@@ -3,7 +3,10 @@
 namespace App\Http\Controllers;
 
 use App\Models\Job;
+use App\Models\User;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Gate;
 
 class JobController extends Controller
 {
@@ -42,12 +45,21 @@ class JobController extends Controller
 
   public function edit(Job $job)
   {
+    // can() determines if the entity has the given abilities
+//    if (Auth::user()->can('edit-job', $job)) {
+//      // do something
+//    }
+
+    // runs the logic of the indicated Gate, if it fails or return false automatically abort with error code 403
+//    Gate::authorize('edit-job', $job);
+
     return view('jobs.edit', ['job' => $job]);
   }
 
   public function update(Job $job)
   {
 // authorize
+    Gate::authorize('edit-job', $job);
 
     // validate
     request()->validate([
@@ -74,6 +86,8 @@ class JobController extends Controller
   public function destroy(Job $job)
   {
 // authorize
+    Gate::authorize('edit-job', $job);
+
     // delete the job
 //  $job = Job::findOrFail($id);
     $job->delete();
